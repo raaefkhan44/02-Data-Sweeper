@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 from io import BytesIO
 
 # App Configurations
-st.set_page_config(page_title="CleanSheet", layout="wide")
-st.title("CleanSheet")
+st.set_page_config(page_title="Data Sweeper", layout="wide")
+st.title("Data Sweeper")
 st.write("Transform your CSV & Excel files with cleaning, visualization, and conversion!")
 
 # File Upload
